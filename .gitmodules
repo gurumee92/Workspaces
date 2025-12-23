@@ -1,0 +1,9 @@
+[submodule "blogs"]
+	path = blogs
+	url = https://github.com/gurumee92/gurumee92.github.io.git
+[submodule "projects/studies"]
+	path = projects/studies
+	url = https://github.com/gurumee92/Studies.git
+[submodule "projects/settings"]
+	path = projects/settings
+	url = https://github.com/gurumee92/Settings.git
